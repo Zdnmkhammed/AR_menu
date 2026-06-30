@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Шакшука",
+    "description": "Яйца, томаты, перец, специи",
+    "price": 3200,
+    "weight": "350 г",
+    "category": "Завтрак",
+    "ingredients": ["Яйца", "Томаты", "Перец", "Лук", "Чеснок"],
+    "allergens": ["Яйца"],
+    "model": "Shakshuka.glb",
+    "image": "shakshuka.jpeg",
+    "scale": 0.17
+  },
+  {
+    "id": 2,
+    "name": "Шорпа из говядины",
+    "description": "Наваристый бульон с овощами",
+    "price": 2800,
+    "weight": "500 мл",
+    "category": "Супы",
+    "ingredients": ["Говядина", "Картофель", "Морковь", "Лук"],
+    "allergens": [],
+    "model": "Shorpa_beef.glb",
+    "image": "shorpa.jpeg",
+    "scale": 0.08
+  },
+  {
+    "id": 3,
+    "name": "Бургер из говядины",
+    "description": "Сочная котлета, чеддер, овощи",
+    "price": 3400,
+    "weight": "400 г",
+    "category": "Бургеры",
+    "ingredients": ["Говяжья котлета", "Чеддер", "Салат", "Томат", "Соус"],
+    "allergens": ["Молоко", "Глютен"],
+    "model": "Burger_beef.glb",
+    "image": "burger.jpeg",
+    "scale": 0.17
+  }
+]
